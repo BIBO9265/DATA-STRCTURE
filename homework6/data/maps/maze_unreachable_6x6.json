@@ -1,0 +1,28 @@
+﻿{
+  "schema_version": "1.1",
+  "name": "maze_unreachable_6x6",
+  "description": "Unreachable maze for testing connected components and failure handling.",
+  "rows": 6,
+  "cols": 6,
+  "start": {
+    "row": 0,
+    "col": 0
+  },
+  "goal": {
+    "row": 5,
+    "col": 5
+  },
+  "cost_rule": {
+    "wall_value": 0,
+    "movement_cost": "entering_cell_cost",
+    "allow_diagonal": false
+  },
+  "grid": [
+    [1, 1, 0, 0, 0, 0],
+    [0, 1, 0, 0, 0, 0],
+    [0, 1, 0, 0, 0, 0],
+    [0, 0, 0, 1, 1, 1],
+    [0, 0, 0, 1, 0, 1],
+    [0, 0, 0, 1, 1, 1]
+  ]
+}

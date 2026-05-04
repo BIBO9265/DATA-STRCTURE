@@ -1,0 +1,5 @@
+map_file,rows,cols,connected_components,algorithm,found,path_length,path_cost,turn_count,visited_nodes,elapsed_ms
+data\maps\maze_weighted_7x7.json,7,7,1,DFS,Yes,6,16,0,7,0.0551
+data\maps\maze_weighted_7x7.json,7,7,1,BFS,Yes,6,16,0,13,0.0318
+data\maps\maze_weighted_7x7.json,7,7,1,Dijkstra,Yes,14,14,4,22,0.0945
+data\maps\maze_weighted_7x7.json,7,7,1,A*,Yes,14,14,4,19,0.0542
