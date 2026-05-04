@@ -1380,7 +1380,8 @@ A* 的優點是可以在維持最佳性的前提下，減少不必要的節點�
 
 | 學號 | 姓名 | 負責內容 |
 |------|------|----------|
-| 41343115 | 周子新 | Graph 專案架構設計、Adjacency List 實作、DFS 與 BFS 實作、Connected Components 實作、Dijkstra 與 A* 實作、JSON 地圖設計、測試案例設計、benchmark CSV 輸出、效能分析與報告整理 |
+| 41343147 | 鄭亦閔 | Graph 基本概念整理、Adjacency Matrix 程式設計、DFS 與 BFS 程式實作、主程式整合與 GitHub 專案建立 |
+| 41343115 | 周子新 | Connected Components 程式設計、Dijkstra 最短路徑演算法實作、A* 搜尋演算法實作、JSON 地圖設計、測試案例設計、benchmark CSV 輸出、效能分析與報告內容整理 |
 
 ### 結論
 
